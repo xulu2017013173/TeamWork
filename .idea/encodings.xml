@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chat_socket_client/src/com/elient/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_client/src/com/elient/Client_chatFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_client/src/com/elient/Client_enterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_client/src/com/elient/Client_singleFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_client/src/com/elient/Client_singleFramebeifen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_server/src/com/server/BroadCast.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_server/src/com/server/ClientThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chat_socket_server/src/com/server/ServerFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/ChatFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/ComUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/LanTalk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/UserInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LanTalk/YeekuProtocol.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MulticastSocketTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UdpClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UdpServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/myc/MultiThreadClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/myc/MultiThreadServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/Client_more.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/Server_more.java" charset="GBK" />
+  </component>
+</project>
